@@ -109,7 +109,7 @@ Delivery-Performance-PowerBI-Dashboard-Project2/
 ---
 
 ## Dashboard
-![Dashboard Preview](Images/Dashboard.PNG)
+![Dashboard Preview](Images/Dashboard.jpg)
 
 ---
 
@@ -137,5 +137,6 @@ Delivery-Performance-PowerBI-Dashboard-Project2/
 📧 Email: sagarmandle11135@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/)
+
 
 
